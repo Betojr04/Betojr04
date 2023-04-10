@@ -6,8 +6,8 @@ As a software developer I enjoy challenging myself with things that are outside 
 
 - 🔭 I’m currently working on a budget web application, and a biomedical engineering degree.
 - 🌱 I’m currently learning <strong>Data Structures</strong> and <strong>Algorithims</strong> on Leetcode. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on any challenging developent projects.
+- 🤔 I’m looking for help with creating a personal finance web appliction. 
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: betomasia12@gmail.com
 - ⚡ Fun fact: I am training for a marathon at the moment!🏃🏽‍♂️
