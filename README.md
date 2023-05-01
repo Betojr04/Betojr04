@@ -9,6 +9,6 @@ As a software developer I enjoy challenging myself with things that are outside 
 - 👯 I’m looking to collaborate on any challenging developent projects.
 - 🤔 I’m looking for help with creating a personal finance web appliction. 
 - 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: betomasia12@gmail.com
+- 📫 How to reach me: hello@betovaltierra.com
 - ⚡ Fun fact: I am training for a marathon at the moment!🏃🏽‍♂️
 
