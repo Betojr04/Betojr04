@@ -8,5 +8,5 @@ As a software developer, I enjoy challenging myself with things outside my comfo
 - 👯 I’m looking to collaborate on any challenging development projects. 
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: beto.fintech@outlook.com
-- ⚡ Fun fact: I am training for a marathon at the moment!🏃🏽‍♂️
+- ⚡ Fun fact: I am training as a hybrid athlete at the moment, focusing on being able to lift heavy in CrossFit style, run half and full marathons, play soccer, and hike mountains!🏃🏽‍♂️
 
