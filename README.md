@@ -12,7 +12,8 @@ As a software developer, I enjoy challenging myself with things outside my comfo
 
 📫 How to reach me: beto.fintech@outlook.com
 
-<a href="https://www.linkedin.com/in/albertovaltierrajr">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>  <- Click there for my Linkedin
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/albertovaltierrajr">Click here for my Linkedin</a>  
 
 
 ⚡ Fun fact: I am training as a hybrid athlete at the moment, focusing on being able to lift heavy in CrossFit style but with full ROM jaja, run half and full marathons, play soccer, and hike mountains!🏃🏽‍♂️
